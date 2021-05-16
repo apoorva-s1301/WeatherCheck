@@ -3,7 +3,7 @@ function displayWeather(weatherData)
 
     document.querySelector("input").value = '';
     document.querySelector(".city-name").innerText = "Weather in "+ weatherData.name;
-    document.querySelector(".weather-icon").src = "http://openweathermap.org/img/wn/" + weatherData.weather[0].icon + "@2x.png";
+    document.querySelector(".weather-icon").src = "https://openweathermap.org/img/wn/" + weatherData.weather[0].icon + "@2x.png";
     document.querySelector(".temp").innerText = weatherData.main.temp + "°C";
     document.querySelector(".description").innerText = weatherData.weather[0].description ;
     document.querySelector(".humidity").innerText = "Humidity : " + weatherData.main.humidity + " %";
