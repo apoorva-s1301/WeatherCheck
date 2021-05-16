@@ -1,6 +1,6 @@
 # WeatherApp ☀️ ☁️ ⛈ ☔️ 💨
 ## ✏️ Description 
-### A simple weather app to display basic weather information by city name. 
+### A simple weather web app to display basic weather information by city name. 
 ##### https://weather-check.000webhostapp.com/
 
 ## 📌 Features 
