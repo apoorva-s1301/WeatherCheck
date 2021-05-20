@@ -27,11 +27,11 @@
 - OpenCage Geocoding API to convert latitude and longitude to text. (Allows 1 calls/sec and 2,500 calls/day)
 
 #### Shortcomings
-- Multiple search requests withing a second can cause error due to free API keys's restrictions.
+- Multiple search requests within a second can cause error due to free API keys's restrictions.
 - Current location auto-detection feature is not supported by Safari browser.
 
 #### Contributing
-- Contributions,issues and feature requests are welcome. 🤝
+- Contributions, issues and feature requests are welcome. 🤝
 
 #### References 
 - https://openweathermap.org/current
